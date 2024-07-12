@@ -1,2 +1,3 @@
 # Spotify-API
 EDA and clustering with data retrieved using Spotipy
+Spotify holds the place as the most popular streaming music platform in the world. Users can listen to an extensive variety of songs of many genres using a computer, tablet, or smartphone connected to the Internet. In this project, Spotipy, the Python library for the Spotify API was utilized to retrieve song data from five different genres: hip hop, rock, jazz, pop, and classical. The data was then analyzed and unsupervised learning clustering models were created to group together songs into various genres. These were compared with both silhoutte scores and visualizations.
